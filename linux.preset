@@ -1,0 +1,11 @@
+# mkinitcpio preset file for the 'linux-5.2.0' package
+
+ALL_config="/etc/mkinitcpio.conf"
+ALL_kver="5.2.1-1-ARCH"
+
+PRESETS=('default')
+
+#default_config="/etc/mkinitcpio.conf"
+default_image="/boot/initramfs-linux.img"
+#default_options=""
+ 
