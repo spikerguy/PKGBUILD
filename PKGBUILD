@@ -1,4 +1,5 @@
 # Amlogic
+# Original Creator: Oleg Ivanov (150balbes) <balbes-150@yandex.ru>
 # Maintainer: Spikerguy <shareahack@hotmail.com>
 
 buildarch=8
